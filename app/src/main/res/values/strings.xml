@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RijksApp</string>
+    <string name="error_response">API Error</string>
+    <string name="error_network">Connection Error</string>
+</resources>
